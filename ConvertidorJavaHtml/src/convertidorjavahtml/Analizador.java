@@ -1,4 +1,4 @@
-//package convertidorjavahtml;
+package convertidorjavahtml;
 
 import java.awt.FileDialog;
 import java.io.BufferedReader;
@@ -420,6 +420,8 @@ public class Analizador {
         pal.add("void");
         pal.add("volatile");
         pal.add("while");
+        pal.add("null");
+           
     }
     
     

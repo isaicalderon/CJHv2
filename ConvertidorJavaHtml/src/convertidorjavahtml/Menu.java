@@ -1,4 +1,4 @@
-//package convertidorjavahtml;
+package convertidorjavahtml;
 
 import java.awt.Color;
 import java.awt.FontMetrics;
